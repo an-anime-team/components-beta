@@ -1,20 +1,20 @@
 {
     "wine": [
         {
-            "name": "wine-staging-tkg",
-            "title": "Wine-Staging-TkG"
-        },
-        {
-            "name": "wine-ge-proton",
-            "title": "Wine-GE-Proton"
-        },
-        {
             "name": "spritz-wine-tkg",
             "title": "Spritz-Wine-TkG"
         },
         {
+            "name": "wine-staging-tkg",
+            "title": "Wine-Staging-TkG"
+        },
+        {
             "name": "spritz-wine-tkg-ntsync",
             "title": "Spritz-Wine-TkG-NTsync"
+        },
+        {
+            "name": "wine-ge-proton",
+            "title": "Wine-GE-Proton"
         },
         {
             "name": "caffe",
