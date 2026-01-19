@@ -1,6 +1,10 @@
 {
     "wine": [
         {
+            "name": "spritz-wine-tkg-dw",
+            "title": "DWCA Spritz-Wine-TkG"
+        },
+        {
             "name": "spritz-wine-tkg",
             "title": "Spritz-Wine-TkG"
         },
@@ -26,6 +30,10 @@
         }
     ],
     "dxvk": [
+        {
+            "name": "vanilla-dw",
+            "title": "DWCA Vanilla"
+        },
         {
             "name": "vanilla",
             "title": "Vanilla"
