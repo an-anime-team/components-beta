@@ -57,6 +57,10 @@
             }
         },
         {
+            "name": "sarek-dw",
+            "title": "DWCA Sarek"
+        }
+        {
             "name": "sarek",
             "title": "Sarek"
         }
