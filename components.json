@@ -35,6 +35,10 @@
             "title": "DWCA Vanilla"
         },
         {
+            "name": "gplasync-dw",
+            "title": "DWCA Gplasync"
+        },
+        {
             "name": "vanilla",
             "title": "Vanilla"
         },
