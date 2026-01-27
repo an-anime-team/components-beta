@@ -27,6 +27,10 @@
         {
             "name": "soda",
             "title": "Soda"
+        },
+        {
+            "name": "wine-tkg-legacy",
+            "title": "Legacy Wine-Staging-TkG"
         }
     ],
     "dxvk": [
