@@ -1,4 +1,16 @@
 [
+    
+    {
+        "name": "spritz-wine-tkg-staging-wow64-10.15-8-signed",
+        "title": "Spritz-Wine-TkG-DW 10.15-8",
+        "uri": "https://github.com/dawn-winery/dawn-signed/releases/download/wine-tkg-aagl-v10.15-8-signed/spritz-wine-tkg-staging-wow64-10.15-8-x86_64-signed.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
     {
         "name": "spritz-wine-tkg-staging-wow64-10.15-5-signed",
         "title": "Spritz-Wine-TkG-DW 10.15-5",
