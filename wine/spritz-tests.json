@@ -1,0 +1,13 @@
+[
+    {
+        "name": "spritz-tests-staging-wow64-10.15-9",
+        "title": "Spritz-Tests 10.15-9",
+        "uri": "https://dawn.wine/NelloKudo/spritz-tests/releases/download/spritz-tests-10.15-9/spritz-tests-staging-wow64-10.15-9-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    }
+]

@@ -9,6 +9,10 @@
             "title": "Spritz-Wine-TkG"
         },
         {
+            "name": "spritz-tests",
+            "title": "Spritz-Tests Builds"
+        },
+        {
             "name": "spritz-wine-cachyos",
             "title": "Spritz-Wine-CachyOS"
         },
