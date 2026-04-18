@@ -47,6 +47,10 @@
             "title": "DWCA Gplasync"
         },
         {
+            "name": "vanilla-git",
+            "title": "Vanilla Git"
+        },
+        {
             "name": "vanilla",
             "title": "Vanilla"
         },
