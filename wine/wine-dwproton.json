@@ -1,5 +1,16 @@
 [
   {
+    "name": "wine-dwproton-wow64-11.0-11",
+    "title": "wine-dwproton 11.0-11",
+    "uri": "https://github.com/NelloKudo/spritz-wine/releases/download/wine-dwproton-11.0-11/wine-dwproton-wow64-11.0-11-x86_64.tar.xz",
+    "files": {
+      "wine": "bin/wine",
+      "wine64": "bin/wine",
+      "wineserver": "bin/wineserver",
+      "wineboot": "bin/wineboot"
+    }
+  },
+  {
     "name": "wine-dwproton-wow64-11.0-4",
     "title": "wine-dwproton 11.0-4",
     "uri": "https://github.com/NelloKudo/spritz-wine/releases/download/wine-dwproton-11.0-4/wine-dwproton-wow64-11.0-4-x86_64.tar.xz",
